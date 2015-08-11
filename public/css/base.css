@@ -76,3 +76,18 @@ ul {
 .secretMessageShow {
   display: true;
 }
+
+.blueText {
+  color: blue;
+}
+
+.purpleText {
+  color: purple;
+}
+
+.purpleButton {
+  color: purple;
+}
+.blueButton {
+  color: blue;
+}
